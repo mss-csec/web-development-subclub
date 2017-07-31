@@ -1,7 +1,7 @@
 ---
 liquid: true
 layout: lesson
-category: <Your subclub category>
+category: web-development
 lesson: 2
 ---
 = Using AsciiDoc

@@ -1,12 +1,11 @@
 ---
-title: <Your subclub title>
+title: Web Development
 layout: landing
-category: <Your subclub category>
+category: web-development
 schedule:
-  example-lesson: 31 Dec 1969
+  intro-to-web-development: Jan 19 2038
 ---
 
-This is your subclub's landing page.
-Put in a short description of what it does.
-Like, introducing the basics of computer science, or teaching game development, or training walruses to play snooker.
-(Please don't do the latter; that's my idea.)
+Web development is one of the fastest growing fields of employment for computer science graduates.
+
+It is an art that requires creativity, patience, and an eye for design.

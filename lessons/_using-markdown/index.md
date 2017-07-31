@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: "Using markdown"
-category: <Your subclub category>
+category: web-development
 lesson: 1
 ---
 
